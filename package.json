@@ -1,0 +1,26 @@
+{
+  "name": "goodgeneratormade",
+  "version": "1.0.0",
+  "description": "backend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugerald/GoodGeneratorMade.git"
+  },
+  "keywords": [
+    "nodejs",
+    "inquirer"
+  ],
+  "author": "James Russell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugerald/GoodGeneratorMade/issues"
+  },
+  "homepage": "https://github.com/eugerald/GoodGeneratorMade#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
