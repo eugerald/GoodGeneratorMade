@@ -45,13 +45,13 @@ function startPrompts(){
         },
         {
             type:"input",
-            message:"Enter E mail",
+            message:"Github username",
             name:"GithubUserName"
         }
         
     ]).then(response =>{
         var  readme = `
-        # Project Title: ${response.title}
+# Project Title: ${response.title}
         ## description: ${response.description}
 
         ### Table of contents
@@ -84,10 +84,8 @@ function startPrompts(){
 
          ### Description
          ${response.Description}
-
-        }
-        `
-        fs.readFileSync("README_OUTPUT.md",readme,function(err){
+`
+        fs.writeFileSync("README_OUTPUT.md",readme,function(err){
             if(err)throw err
         })
         console.log(readme)
