@@ -1,34 +1,34 @@
 
-        # Project Title: saf
-        ## description: undefined
+# Project Title: Readme generator
+## description: undefined
 
-        ### Table of contents
-        * [Usage](#usage)
-          * [License](#license)
-          * [Installation](#Installation)
-          * [Email](#Email)
-          * [Contribution](#Contribution)
-          * [Test](#Test)
-          * [Description](#Description)
+### Table of contents
+* [Usage](#usage)
+* [License](#license)
+* [Installation](#Installation)
+* [Email](#Email)
+* [Contribution](#Contribution)
+* [Test](#Test)
+* [Description](#Description)
 
 
-        #### Usage:
-         undefined
+#### Usage:
+Free
 
-         #### License:
-         MIT
+#### License:
+MIT
 
-         #### Installation:
-         dsf
+#### Installation:
+npm i
 
-         ### Email:
-         undefined
+### Email:
+test@gmail.com
 
-         ### Contribution
-         sd
+### Contribution
+Open source app
 
-         ### Test
-         ds
+### Test
+Manual
 
-         ### Description
-         undefined
+### Description
+CLI Nodejs app
